@@ -1,0 +1,88 @@
+@media screen and (max-width: 767px) {
+    li {
+        list-style-type: none;
+        width: 80%;
+    }
+    ul {
+        font-size: 100%;
+        margin: 0%;
+        padding: 0%;
+    }
+    p#datosContacto {
+        color: gray;
+        font-size: 50%;
+        margin-left: 10%;
+    }
+    p.titulosExperiencia {
+        font-size: 150%;
+        font-weight: bold;
+        margin-top: 4%;
+        margin-left: 10%;
+    }
+    p#tituloSecundario {
+        color: #55EB25;
+        font-weight: bold;
+        font-size: 100%;
+    }
+    p#tituloSecundario1 {
+        color: #55EB25;
+        font-weight: bold;
+        font-size: 70%;
+        padding: 0%;
+    }
+    p#titulosSecundarios {
+        color: #55EB25;
+        font-weight: bold;
+        font-size: 100%;
+        float: left;
+    }
+    p#tituloDelTrabajo {
+        font-weight: bold;
+        margin-left: 20%;
+        font-size: 200%;
+    }
+    div.derecha {
+        float: left;
+    }
+    div.derecha1 {
+        float: left;
+        width: 30%;
+        font-size: 60%;
+    }
+    div#datosSecundarios {
+        float: left;
+        font-size: 60%;
+        width: 60%;
+    }
+    div#datosSecundarios2 {
+        float: left;
+        font-size: 60%;
+        width: 40%;
+    }
+    div.datosEstudio {
+        float: left;
+        margin-top: -67%;
+        margin-left: 20%;
+        font-size: 50%;
+    }
+    div.datosTrabajo {
+        float: left;
+        font-size: 60%;
+        width: 70%;
+    }
+    ul#informacion {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        margin-top: 10%;
+        background-color: #333;
+    }
+    li#datosInformacion {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+}
